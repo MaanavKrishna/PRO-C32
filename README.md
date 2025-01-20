@@ -3,9 +3,13 @@
 This project demonstrates the power of Matter.js and p5.js to create physics-based simulations and interactive web applications. The application includes dynamic objects that respond to user interactions with realistic behaviors such as collision detection, gravity, and object movement. It’s an ideal starting point for anyone interested in exploring game physics, interactive design, or JavaScript-based simulations.
 
 Features
+
 	•	Realistic Physics: Leverages Matter.js for accurate physics simulations.
+ 
 	•	Interactive: Users can interact with objects, drag them, and watch them react.
+ 
 	•	Visual Effects: Built with p5.js for smooth rendering and animations.
+ 
 	•	Customizable: Easily modify elements for personalized gameplay or simulation experiments.
 
 Technologies Used
